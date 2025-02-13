@@ -1,5 +1,5 @@
 {
-  "name": "easyswoole/file-watcher",
+  "name": "wuguangping/file-watcher",
   "type": "library",
   "license": "Apache-2.0",
   "autoload": {
